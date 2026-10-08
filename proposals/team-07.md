@@ -33,10 +33,8 @@ the short login like ab1234 rather than your email address.
 |  Bilal Malik    |     bm1262  |
 ## Project Title
 
-<!--  PrivateBench: Generating Private Coding Benchmarks for Cost-Aware AI Model
- Selection and Routing -->
- PrivateBench: Generating Private Coding Benchmarks for Cost-Aware AI Model
- Selection and Routing
+
+ PrivateBench: Generating Private Coding Benchmarks for Cost-Aware AI Model Selection and Routing
 
 ## Abstract
 
